@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Saeid Spark
-- 👀 I’m interested in programming and reading books
+- 👋 Hi, I’m Saeid
 - 📫 How to reach me: sparksaeid@gmail.com
 <!-- - 🌱 I’m currently learning Machine Learning
 - 😄 Pronouns: ...
